@@ -2,7 +2,7 @@
 
 ---
 ## Overview:
-<p>The Online Placement Prediction System, where student can estimate their chances of securing on-campus placements, considering several parameters such as Stream, CGPA, Internship, Backlogs and more. Students can estimate their results within few clicks by submitting short form. The website usage the machine learning model to analyze the input parameters.
+<p>The Online Placement Prediction System, where student can estimate their chances of securing on-campus placements, considering several parameters such as Stream, CGPA, Internship, Backlogs and more. Students can estimate their results within few clicks by submitting short form. The website usage the machine learning model to analyze the input parameters. The dataset downloaded from the www.Kaggle.com for testing.
 </p>
 
 ## Features:
@@ -23,11 +23,18 @@ User have to fill this form.
 User redirected to the result page after submitting form.
 ![Screenshot (98)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/85997a0a-bf8b-4654-b9c0-294a3a2e9492)
 
+
+
+## Website Link:
+
+https://placement-prediction-18gm.onrender.com/
+
+
 ## Usage:
 Steps:
 1. Clone The Project
 ```
-https://github.com/Avi8010/Placement_Predictor.git
+git clone https://github.com/Avi8010/Placement_Predictor.git
 ```
 2. Installing dependancies
 ```
