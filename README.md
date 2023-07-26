@@ -16,7 +16,16 @@
 
 ## Screenshots:
 ### Home page:
+user have fill this form.
+![Screenshot (99)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737)
 
+### Result Page:
+user redirected to the result page after submitting form.
+![Screenshot (98)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/85997a0a-bf8b-4654-b9c0-294a3a2e9492)
 
+## Usage:
+Steps:
+1. Clone The Project
+```
 
 
