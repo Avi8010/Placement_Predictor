@@ -6,7 +6,7 @@
 </p>
 
 ## Features:
-- By leveraging the Decision Tree Classification technique, the model haas been train o analyze the input parameteers and makes predictions ragarding the outcome.
+- By leveraging the Decision Tree Classification technique, the model has been train to analyze the input parameteers and makes predictions ragarding the outcome.
 - The Machine Learing Model (Decision Tree Classification) achieved 97% precision and 86% accuracy.
 
 ## Tech Stack:
@@ -21,7 +21,7 @@ User have to fill this form.
 
 ### Result Page:
 User redirected to the result page after submitting form.
-![Screenshot (98)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/85997a0a-bf8b-4654-b9c0-294a3a2e9492)
+![Screenshot (101)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/efebf129-17f4-40d5-9829-7cefee5ed14c)
 
 
 
@@ -32,7 +32,7 @@ https://placement-prediction-18gm.onrender.com/
 
 ## Usage:
 Steps:
-1. Clone The Project
+1. Clone Project
 ```
 git clone https://github.com/Avi8010/Placement_Predictor.git
 ```
